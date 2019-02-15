@@ -13,7 +13,7 @@
     ],
     "require": {
         "silex/silex": "~1.0",
-        "knplabs/knp-snappy": "dev-master",
+        "knplabs/knp-snappy": "~1.0",
         "imagine/Imagine": "*"
     },
     "autoload": {
